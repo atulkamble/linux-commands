@@ -18,6 +18,7 @@
 
 ---
 Linux, Kernel, Shell, Linux Commands 
+```
 cat 
 chmod 
 chown
@@ -35,5 +36,5 @@ rm
 tail
 tee
 uname
-
+```
 // busybox
